@@ -1,0 +1,23 @@
+{
+	"name": "@bobliao/consolelay",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AKAMKII6666/-bobliao-consoleLay.git"
+	},
+	"keywords": [],
+	"author": "AKA MKII",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AKAMKII6666/-bobliao-consoleLay/issues"
+	},
+	"homepage": "https://github.com/AKAMKII6666/-bobliao-consoleLay#readme",
+	"dependencies": {
+		"@bobliao/use-jquery-hook": "^0.1.5"
+	}
+}
